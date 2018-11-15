@@ -11,7 +11,7 @@ library("bootstrap")
 #normal bootstrap confidence interval, the basic bootstrap confidence interval, and the percentile confidence
 #interval. Discuss the simulation results for the cases where the sampled population is
 #i. N(10, 2)
-#ii. £q
+#ii. Â£q
 #2
 #(1), and
 #iii. Exp(rate = 1)
